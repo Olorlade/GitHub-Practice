@@ -15,4 +15,9 @@ use -space
 - Data Collection
 - Data Cleaning
 - Data Analysis
-  
+
+  ## To display a table (with image)
+
+ Table 1             | Table 2
+ :------------------:|:--------------------:
+![](Data_Parsing.png)|![](Data_Parsing2.png)
